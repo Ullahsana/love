@@ -1,4 +1,4 @@
 # love
 LOVE
 
-https://github.com/Ullahsana/love/tree/main
+https://github.com/Ullahsana/love
